@@ -30,3 +30,32 @@ Este es un proyecto desarrollado en **C++** que permite **cifrar y descifrar men
 ```bash
 g++ ProgramaDeCifrado.cpp -o ProgramaDeCifrado
 
+./ProgramaDeCifrado
+En Windows puedes correr ProgramaDeCifrado.exe directamente
+
+📁 Archivos incluidos
+Archivo	Descripción
+ProgramaDeCifrado.cpp	Código fuente con ambos cifrados
+ProgramaDeCifrado.exe	Ejecutable precompilado (Windows)
+ProgramaDeCifrado.o	Archivo objeto generado
+🧠 ¿Qué son el Cifrado César y la Escítala?
+🔸 Cifrado César
+Método de sustitución en el que cada letra del mensaje se reemplaza por otra desplazada un número fijo de posiciones en el alfabeto.
+
+Ejemplo:
+A → D, B → E, C → F (desplazamiento de 3)
+
+🔸 Escítala Espartana
+Método de transposición usado por los espartanos. El mensaje se escribe en una tira enrollada en un cilindro (la escítala) y se lee en sentido vertical, creando una clave visual única.
+
+👨‍💻 Autor
+Víctor Daniel Tigreros
+📧 victordanieltigreros@gmail.com
+🌐 LinkedIn
+
+⭐ ¡Gracias por visitar este proyecto!
+Si te gustó o te fue útil, ¡no olvides dejar una estrella ⭐ o compartirlo!
+Contribuciones son bienvenidas 🤝
+
+
+
